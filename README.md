@@ -1,2 +1,2 @@
 # Data-Analysis-Projects
-A repository containing Data Analysis Projects resulting from finishing a Bootcamp
+A repository containing Data Analysis Projects that I have finished
